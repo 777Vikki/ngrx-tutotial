@@ -36,3 +36,10 @@ Goto: https://ngrx.io/docs
 
 Reference: https://www.youtube.com/watch?v=BneVl57pvGs&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=2
 
+Tutorial-3
+
+Topic: How Store State, Actions and Reducers will look like in NGRX Redux Pattern - Angular
+
+Store: Store is state data.
+
+Reference: https://www.youtube.com/watch?v=m0f8oDDHCO0&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=3
