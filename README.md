@@ -23,7 +23,16 @@ Topic: Introduction to Angular NGRX State Management - #ngrx​ #Angular
     -> Proper structure of our application.
 
     -> Managing the state(data or store).
-    
+
 -> State: State means data that store in STORE.
 
 Reference; https://www.youtube.com/watch?v=3WI5BEXVkmE&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=1
+
+Tutorial-2
+
+Topic: Understand Redux Pattern Structure. When to use and not to use NGRX in the application - Angular
+
+Goto: https://ngrx.io/docs
+
+Reference: https://www.youtube.com/watch?v=BneVl57pvGs&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=2
+
