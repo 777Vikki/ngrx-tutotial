@@ -43,3 +43,11 @@ Topic: How Store State, Actions and Reducers will look like in NGRX Redux Patter
 Store: Store is state data.
 
 Reference: https://www.youtube.com/watch?v=m0f8oDDHCO0&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=3
+
+Tutorial-4
+
+Topic: Implement Counter Application without NGRX and using Input Output Emitters - Angular NGRX
+
+
+
+Reference: https://www.youtube.com/watch?v=Ak1kxUgmLUc&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=4
