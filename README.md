@@ -92,3 +92,11 @@ Topic: Using CreateFeatureSelector and createSelector for getting the store data
 
 Reference: https://www.youtube.com/watch?v=U3Fw9xAKCT0&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=9
 
+Tutorial-10
+
+Topic: Implement Routing for the state management Ngrx application - Angular Ngrx
+
+Reference: https://www.youtube.com/watch?v=PtG0aXJok34&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=10
+
+
+
