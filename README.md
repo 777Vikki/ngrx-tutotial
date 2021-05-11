@@ -48,6 +48,12 @@ Tutorial-4
 
 Topic: Implement Counter Application without NGRX and using Input Output Emitters - Angular NGRX
 
-
-
 Reference: https://www.youtube.com/watch?v=Ak1kxUgmLUc&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=4
+
+Tutorial-5
+
+Topic: Implement the Counter Application using NGRX Store, Actions, and Reducers - Angular Ngrx.
+
+npm install @ngrx/store
+
+Reference: https://www.youtube.com/watch?v=hRD5Fy664io&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=5
