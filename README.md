@@ -86,3 +86,9 @@ If I get counter and channelName using subscribe. If I change counter, channelNa
 
 Reference: https://www.youtube.com/watch?v=8zyyfb9_lEI&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=8
 
+Tutorial-9
+
+Topic: Using CreateFeatureSelector and createSelector for getting the store data - Angular ngrx
+
+Reference: https://www.youtube.com/watch?v=U3Fw9xAKCT0&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=9
+
