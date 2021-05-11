@@ -57,3 +57,10 @@ Topic: Implement the Counter Application using NGRX Store, Actions, and Reducers
 npm install @ngrx/store
 
 Reference: https://www.youtube.com/watch?v=hRD5Fy664io&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=5
+
+Tutorial-6
+
+Topic: Refactoring Store state. Using Async Pipe for selecting observable state data - Angular NGRX
+
+Reference: https://www.youtube.com/watch?v=FWnv2YbCSlE&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=6
+
