@@ -116,3 +116,10 @@ Tutorial-12
 Topic: Combining all the different modules of the state into a single AppState - Angular Ngrx
 
 Reference: https://www.youtube.com/watch?v=skbu7CUJNTk&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=12
+
+Tutorial-13
+
+Topic: Implement the AppState in the Angular NGRX Application by combining all the Feature states.
+
+Reference: https://www.youtube.com/watch?v=wCvJ5uc-Pbo&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=13
+
