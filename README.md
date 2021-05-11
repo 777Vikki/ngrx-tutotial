@@ -98,5 +98,16 @@ Topic: Implement Routing for the state management Ngrx application - Angular Ngr
 
 Reference: https://www.youtube.com/watch?v=PtG0aXJok34&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=10
 
+Tutorial-11
+
+Topic: Install Redux Chrome Extension and ngrx store dev tools for debugging Angular Ngrx Application.
+
+For Debugging-
+
+npm install @ngrx/store-devtools --save
+
+Right Click Mouse -> Inspect -> click redux and see Redux store.
+
+Reference: https://www.youtube.com/watch?v=GnREH8YOWjo&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=11
 
 
