@@ -64,3 +64,25 @@ Topic: Refactoring Store state. Using Async Pipe for selecting observable state 
 
 Reference: https://www.youtube.com/watch?v=FWnv2YbCSlE&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=6
 
+Tutorial-7
+
+Topic: Pass Custom Data using Props in Actions. Update State Data in Reducer with Data - Angular NGRX.
+
+Reference: https://www.youtube.com/watch?v=sfrLeTfa7fI&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=7
+
+Tutorial-8
+
+Topic: Disadvantages of not using create Selectors for selecting the store data in NGRX - Angular Ngrx
+
+export interface CounterState {
+   
+    counter: number;
+   
+    channelName: string;
+
+}
+
+If I get counter and channelName using subscribe. If I change counter, channelName subscribe execute and I change channelName, counter subscribe execute.
+
+Reference: https://www.youtube.com/watch?v=8zyyfb9_lEI&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=8
+
