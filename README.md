@@ -129,3 +129,8 @@ Topic: Get Async Data from ngrx store using createSelector and display it in the
 
 Reference: https://www.youtube.com/watch?v=N0frNz9OcB8&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=14
 
+Tutorial-15
+
+Topic: Create Reactive Form for adding Post and apply validations using child routing - Angular ngrx
+
+Reference: https://www.youtube.com/watch?v=XUI9ki2dP9E&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=15
