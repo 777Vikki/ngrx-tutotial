@@ -123,3 +123,9 @@ Topic: Implement the AppState in the Angular NGRX Application by combining all t
 
 Reference: https://www.youtube.com/watch?v=wCvJ5uc-Pbo&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=13
 
+Tutorial-14
+
+Topic: Get Async Data from ngrx store using createSelector and display it in the table - Angular, NGRX
+
+Reference: https://www.youtube.com/watch?v=N0frNz9OcB8&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=14
+
