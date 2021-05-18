@@ -153,3 +153,9 @@ Topic: Update Post in Ngrx store immutable with actions in Angular Ngrx
 
 Reference: https://www.youtube.com/watch?v=HN96QmxBRgI&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=18
 
+Tutorial-19
+
+Topic: Delete Post in the Ngrx store state in Angular Ngrx
+
+Reference: https://www.youtube.com/watch?v=zcJFRRLvD78&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=19
+
