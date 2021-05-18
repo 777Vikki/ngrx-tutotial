@@ -134,3 +134,9 @@ Tutorial-15
 Topic: Create Reactive Form for adding Post and apply validations using child routing - Angular ngrx
 
 Reference: https://www.youtube.com/watch?v=XUI9ki2dP9E&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=15
+
+Tutorial-16
+
+Topic: Adding Posts into the ngrx state submitted by the Form - Angular NGRX
+
+Reference: https://www.youtube.com/watch?v=RCJPtZKcCuY&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=16
