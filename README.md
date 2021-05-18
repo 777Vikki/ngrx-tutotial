@@ -146,3 +146,10 @@ Tutorial-17
 Topic: Props in Ngrx Selectors. Sending arguments to the state selectors for updating Post - Angular
 
 Reference: https://www.youtube.com/watch?v=Xs9EMmucLeE&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=17
+
+Tutorial-18
+
+Topic: Update Post in Ngrx store immutable with actions in Angular Ngrx
+
+Reference: https://www.youtube.com/watch?v=HN96QmxBRgI&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=18
+
