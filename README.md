@@ -140,3 +140,9 @@ Tutorial-16
 Topic: Adding Posts into the ngrx state submitted by the Form - Angular NGRX
 
 Reference: https://www.youtube.com/watch?v=RCJPtZKcCuY&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=16
+
+Tutorial-17
+
+Topic: Props in Ngrx Selectors. Sending arguments to the state selectors for updating Post - Angular
+
+Reference: https://www.youtube.com/watch?v=Xs9EMmucLeE&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=17
