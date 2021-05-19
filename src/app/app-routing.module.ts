@@ -12,16 +12,13 @@ const routes: Routes = [
   },
   {
     path: 'counter',
-    loadChildren: () => 
-    import('./counter/counter.module').then(mod => mod.CounterModule)
+    loadChildren: () =>
+      import('./counter/counter.module').then(mod => mod.CounterModule)
   },
   {
     path: 'posts',
-    component: PostsListComponent,
-    children: [
-      {path: 'add', component: AddPostComponent},
-      {path: 'edit/:id', component: EditPostComponent}
-    ]
+    loadChildren: () =>
+      import('./posts/posts.module').then(mod => mod.PostsModule)
   }
 ];
 
