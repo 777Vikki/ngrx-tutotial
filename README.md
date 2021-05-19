@@ -183,4 +183,11 @@ Topic: Ngrx Effects Library introduction. Manage HTTP calls with effects
 
 Reference: https://www.youtube.com/watch?v=8gjFcENWfm8&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=23
 
+Tutorial-24
+
+Topic:  How to Define the Ngrx Effect file in Angular Ngrx Application
+
+Reference: https://www.youtube.com/watch?v=HWNFb7yFHfg&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=24
+
+
 
