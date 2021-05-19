@@ -1,5 +1,6 @@
 import { Injectable } from "@angular/core";
 import { Observable, of } from "rxjs";
+import { delay } from "rxjs/operators";
 import { AuthResponseData } from "../models/AuthResponseData.model";
 import { User } from "../models/user.model";
 
@@ -20,7 +21,8 @@ const loginSuccessDetail = (email: string): AuthResponseData => {
 export class AuthService {
 
     login(email: string, password: string): Observable<AuthResponseData> {
-        return of(loginSuccessDetail(email));
+        return of(loginSuccessDetail(email))
+            .pipe(delay(3000))
     }
 
     formatUser(data: AuthResponseData) {
