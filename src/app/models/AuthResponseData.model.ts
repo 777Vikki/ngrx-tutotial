@@ -1,4 +1,5 @@
 export interface AuthResponseData {
+    status?: boolean;
     idToken: string;
     email: string;
     refreshToken: string;

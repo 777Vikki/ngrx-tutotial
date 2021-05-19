@@ -195,6 +195,12 @@ Topic: Adding Auth Feature State for the Auth Module in the Angular Ngrx Applica
 
 Reference: https://www.youtube.com/watch?v=JKKydVTwTEc&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=25
 
+Tutorial-26
+
+Topic: Implement first Effects file in our Angular NGRX Application
+
+Reference: https://www.youtube.com/watch?v=h6CuOo6SsZc&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=26
+
 Tutorial-27
 
 Topic: Save the User token data from Login in Ngrx State in Angular Ngrx Application
@@ -207,5 +213,9 @@ Topic: Implement Shared Loading Spinner Component in the Ngrx Shared State - Ang
 
 Reference: https://www.youtube.com/watch?v=EDvx8avc094&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=28
 
+Tutorial-29
 
+Topic: Implement Error handling in ngrx effects and show error message when API fails - Angular NGRX
+
+Reference: https://www.youtube.com/watch?v=yaMHyj7pdmk&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=29
 
