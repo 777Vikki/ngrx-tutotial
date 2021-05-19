@@ -195,5 +195,10 @@ Topic: Adding Auth Feature State for the Auth Module in the Angular Ngrx Applica
 
 Reference: https://www.youtube.com/watch?v=JKKydVTwTEc&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=25
 
+Tutorial-26
+
+Topic:  Implement first Effects file in our Angular NGRX Application
+
+Reference: https://www.youtube.com/watch?v=h6CuOo6SsZc&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=26
 
 
