@@ -176,3 +176,11 @@ Tutorial-22
 Topic: Design Auth Login Module in Ngrx Angular Application
 
 Reference: https://www.youtube.com/watch?v=mg9PQ5SL6YI&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=22
+
+Tutorial-23
+
+Topic: Ngrx Effects Library introduction. Manage HTTP calls with effects
+
+Reference: https://www.youtube.com/watch?v=8gjFcENWfm8&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=23
+
+
