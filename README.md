@@ -171,3 +171,8 @@ Topic: Lazy load the ngrx state using for Feature store Module in Angular NGRX
 
 Reference: https://www.youtube.com/watch?v=iKfG4_e_IqM&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=21
 
+Tutorial-22
+
+Topic: Design Auth Login Module in Ngrx Angular Application
+
+Reference: https://www.youtube.com/watch?v=mg9PQ5SL6YI&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=22
