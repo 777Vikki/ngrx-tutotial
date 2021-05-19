@@ -26,7 +26,11 @@ export class EditPostComponent implements OnInit {
         .select(getPostById, { id })
         .subscribe((data) => {
           this.post = data;
-          this.createForm();
+          if (data) {
+            this.createForm();
+          } else {
+            this.router.navigate(['posts'])
+          }
         });
     });
   }

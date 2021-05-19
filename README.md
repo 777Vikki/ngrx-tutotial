@@ -159,3 +159,9 @@ Topic: Delete Post in the Ngrx store state in Angular Ngrx
 
 Reference: https://www.youtube.com/watch?v=zcJFRRLvD78&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=19
 
+Tutorial-20
+
+Topic: Implement Lazyloading for the routes in the ngrx application - Angular NGRX
+
+Reference: https://www.youtube.com/watch?v=-v7ub4Y8xtk&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=20
+
