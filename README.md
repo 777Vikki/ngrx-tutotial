@@ -165,3 +165,9 @@ Topic: Implement Lazyloading for the routes in the ngrx application - Angular NG
 
 Reference: https://www.youtube.com/watch?v=-v7ub4Y8xtk&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=20
 
+Tutorial-21
+
+Topic: Lazy load the ngrx state using for Feature store Module in Angular NGRX
+
+Reference: https://www.youtube.com/watch?v=iKfG4_e_IqM&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=21
+
